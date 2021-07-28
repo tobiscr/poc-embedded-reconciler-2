@@ -1,4 +1,4 @@
-module github.com/tobiscr/poc-embedded-reconciler-1
+module github.com/tobiscr/poc-embedded-reconciler-2
 
 go 1.16
 
