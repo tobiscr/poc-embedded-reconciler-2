@@ -711,8 +711,10 @@ github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20170815181823-89b8d40f7ca8/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
-github.com/tobiscr/poc-embedded-reconciler-1 v0.0.0-20210728200351-5953b1802afb/go.mod h1:j9xx/fEEFsWedskFSUZFsXek4yz1EyWKhnDkU6JiJdg=
-github.com/tobiscr/poc-embedded-reconciler-2 v0.0.0-20210728200400-688f5569e2de/go.mod h1:493hkfsC+W9xByQQgmMEcW6Nsbapr0WL+Xp/WV2KxTU=
+github.com/tobiscr/poc-embedded-reconciler-1 v0.0.0-20210728202631-fc0c88525a8f/go.mod h1:v6eCkbjH8Dqridku7XbX9C+FqFgp297ZZ4xNaX4bcdw=
+github.com/tobiscr/poc-embedded-reconciler-2 v0.0.0-20210728202647-9d57489bb06b/go.mod h1:z9eglBHBRgTk3CgJhEcjtt3PWAH0e0e8VKrAVvlUddI=
+github.com/tobiscr/reconciler v0.0.0-20210728202952-a24f3cb15d1f h1:4H/mFj0/W/pIYCbnuX+B0viiOjYiHiQqTDIHImjGtso=
+github.com/tobiscr/reconciler v0.0.0-20210728202952-a24f3cb15d1f/go.mod h1:WfvCOoO8cAyy5UNGmkRn4zN1HdIN+efnc/upfPpXWq8=
 github.com/traefik/yaegi v0.9.17/go.mod h1:FAYnRlZyuVlEkvnkHq3bvJ1lW5be6XuwgLdkYgYG6Lk=
 github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
 github.com/urfave/cli v1.20.0/go.mod h1:70zkFmudgCuE/ngEzBv17Jvp/497gISqfk5gWijbERA=
